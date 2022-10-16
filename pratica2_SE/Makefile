@@ -17,7 +17,7 @@ RM=rm -f
 
 TARGET=led_blinky
 
-SRC=$(wildcard *.c, wildcard ./drivers/*.c, wildcard ./includes/*.c)
+SRC=$(wildcard *.c) $(wildcard ./drivers/*.c) $(wildcard ./includes/*.c)
 OBJ=$(patsubst %.c, %.o, $(SRC))
 
 all: build size

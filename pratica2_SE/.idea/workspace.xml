@@ -15,7 +15,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebfc399c-bdef-47fc-9e06-6358a640b3fb" name="Changes" comment="" />
+    <list default="true" id="ebfc399c-bdef-47fc-9e06-6358a640b3fb" name="Changes" comment="borrado de fichero">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,8 +113,16 @@
       <workItem from="1665747811211" duration="1381000" />
       <workItem from="1665844530043" duration="6810000" />
       <workItem from="1665954411839" duration="638000" />
-      <workItem from="1665955853985" duration="1000" />
+      <workItem from="1665955853985" duration="1067000" />
     </task>
+    <task id="LOCAL-00001" summary="borrado de fichero">
+      <created>1665956087592</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665956087592</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,5 +138,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="borrado de fichero" />
+    <option name="LAST_COMMIT_MESSAGE" value="borrado de fichero" />
   </component>
 </project>
